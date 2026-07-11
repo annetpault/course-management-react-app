@@ -35,7 +35,7 @@ const ViewCourse = () => {
                                                
                                                 <div className="card-body">
                                                     <div>
-                                                        <strong>Course Name :</strong> {value.courseName} <br />
+                                                        <strong>Course Name :</strong> {value.course_name} <br />
                                                         <strong>Created at :</strong> {value.created_at} <br />
                                                         <strong>Duration :</strong> {value.duration} <br />
                                                         <strong>Fee : </strong> {value.fee} <br />
